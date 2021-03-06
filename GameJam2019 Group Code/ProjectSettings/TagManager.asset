@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Magic
+  - enemy
+  - grid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MagicTriggers
+  - Environment
+  - Player
+  - TeleportLabel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4098711015
+    locked: 0
+  - name: forground
+    uniqueID: 4173571131
+    locked: 0
+  - name: Enemies
+    uniqueID: 2721528721
+    locked: 0
+  - name: Player
+    uniqueID: 375835337
+    locked: 0
+  - name: Teleport
+    uniqueID: 3214060581
+    locked: 0
+  - name: Crystals
+    uniqueID: 978144125
+    locked: 0
